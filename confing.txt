@@ -1,0 +1,7 @@
+token=NTYwNzYxODQ2ODg2NTYzODQ1.D34psw.iMH-nuu0TKJWkvYfVF4IOTNXAI4
+owner=521688630503276544
+prefix= +
+game= watching
+stayinchannel=true
+songinstatus=true
+
